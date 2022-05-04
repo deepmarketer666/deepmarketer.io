@@ -15,7 +15,6 @@ h6:lang(ta),
     display: inline-block;
 }
 .header{
--webkit-background-size:cover ;
 background-size:cover ;
 background-position: center center;
 height: 100vh;
