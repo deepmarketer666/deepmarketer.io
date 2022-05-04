@@ -15,7 +15,7 @@ h6:lang(ta),
     display: inline-block;
 }
  
-.header{
+header{
 
 -webkit-background-size:cover ;
 background-size:cover ;
@@ -87,7 +87,10 @@ body {
     overflow-y: scroll;
     position: relative;
 }
-
+#particles-js {
+    background: black;
+    height: 100vh;
+}
 .loader-wrapper {
     top: 0;
     right: 0;
